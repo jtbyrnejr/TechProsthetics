@@ -2,7 +2,7 @@
 A site that incorporates a variety of technical solutions to help and enable prosthetic solutions to missing or extended limbs.
 
 # Objectives
-Speardhead initiatives towards specific approaches.
+Spearhead initiatives towards specific approaches.
 
 # References
 A list and assorted material om exisiyng players in this area of development and product placement.
