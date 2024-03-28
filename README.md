@@ -6,10 +6,11 @@ Spearhead initiatives towards specific approaches.
 
 # References
 A list and assorted material om existing players in this area of development and product placement.
-*![Dictionary]()
-*![Protheses]()
-*![Outputs]()
-*![Inputs]()
+
+**![Dictionary]()
+**![Protheses]()
+**![Outputs]()
+**![Inputs]()
 
 
 # Regulatory
