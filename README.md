@@ -5,7 +5,7 @@ A site that incorporates a variety of technical solutions to help and enable pro
 Spearhead initiatives towards specific approaches.
 
 # References
-A list and assorted material om existing players in this area of development and product placement.
+A list and assorted material on existing players in this area of development and product placement.
 
 -[Dictionary]()
 
